@@ -73,6 +73,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [VoidLinux 探索筆記](https://samwhelp.github.io/note-about-voidlinux/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux) |
+| [Pardus 探索筆記](https://samwhelp.github.io/note-about-pardus/) | [GitHub](https://github.com/samwhelp/note-about-pardus) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [MxLinux 探索筆記](https://samwhelp.github.io/note-about-mxlinux/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux) |
 | [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
